@@ -1,4 +1,7 @@
 <?php
+//下面这行是为了过微信认证的，填写订阅号基本配置的时候需要填URL并验证消息，这时把下面这行取消注释即可。通过验证后可以删掉或继续注释。
+//echo $_GET["echostr"];exit;
+
 $xml_tree = simplexml_load_string(file_get_contents("php://input"));
 $prompt .= $xml_tree->Content;
 $touser = $xml_tree->FromUserName;

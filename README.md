@@ -25,6 +25,6 @@ https://www.qybk.cc/archives/84/
 
 ![qrcode_for_gh_7d9f69d300ab_258](https://user-images.githubusercontent.com/5563148/223959051-3cbb2c9b-6e37-436a-95c2-7c998379d06c.jpg)
 
-欢迎关注我其他关于ChatGPT的项目！
+欢迎关注我其他关于DeepSeek的项目！
 
 https://github.com/dirk1983/deepseek
